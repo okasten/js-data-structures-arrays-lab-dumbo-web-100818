@@ -18,6 +18,6 @@ function destructivelyRemoveFirstDriver(){
 }
 
 function AppendDriver(name){
-  new_array = drivers
+  new_array = [drivers]
 }
 
